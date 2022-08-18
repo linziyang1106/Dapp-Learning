@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "example02-send-signed-transaction",
   "version": "1.0.0",
   "description": "",
